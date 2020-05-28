@@ -4,6 +4,10 @@ public static void main(String args[])
 {
 System.out.println("Hello universe !!! ");
 System.out.println("Hello universe Again now !!! ");
+
 System.out.println("Here we Go..");
+
+System.out.println("Finally done !");
+
 }
 }
